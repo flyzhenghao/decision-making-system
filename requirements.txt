@@ -1,0 +1,10 @@
+streamlit
+openai
+chromadb
+pandas
+pypdf
+networkx
+python-dotenv
+ebooklib
+beautifulsoup4
+graphviz
